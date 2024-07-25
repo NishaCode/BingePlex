@@ -1,0 +1,7 @@
+@media (max-width: 34em) {
+  header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
