@@ -1,1 +1,1 @@
-link:   https://binge-plex.netlify.app/
+This is a movie app where you can view IMDb ratings, get an overview, and access images of various movies you wish to search. It contains front-end technologies- HTML5, CSS3, and JavaScript using a third-party API for the movie database. https://binge-plex.netlify.app/
