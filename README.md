@@ -1,1 +1,1 @@
-# BingePlex
+link:   https://binge-plex.netlify.app/
